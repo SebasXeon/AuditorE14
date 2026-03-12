@@ -1,0 +1,20 @@
+[project]
+name = "auditore14"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "camoufox[geoip]>=0.4.11",
+    "opencv-python>=4.13.0.92",
+    "pillow>=12.1.1",
+    "pypdfium2>=5.6.0",
+    "python-doctr>=1.0.1",
+    "winrt-runtime>=3.2.1",
+    "winrt-windows-foundation>=3.2.1",
+    "winrt-windows-globalization>=3.2.1",
+    "winrt-windows-graphics-imaging>=3.2.1",
+    "winrt-windows-media-ocr>=3.2.1",
+    "winrt-windows-storage>=3.2.1",
+    "winrt-windows-storage-streams>=3.2.1",
+]
